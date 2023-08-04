@@ -4,7 +4,7 @@ using Unity.Netcode;
 
 public class Timer : NetworkBehaviour
 {
-    private float totalTime = 20f; // 5min
+    private float totalTime = 300f; // 5min
     private float _currentTimeInSeconds;
     private TextMeshProUGUI _timerText;
 
