@@ -135,23 +135,23 @@ Open in New Editor
 
 #### Fluxo de Gameplay:
 
-1. Avance da tela inicial com Enter
+- 1. Avance da tela inicial com Enter
 <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/1.png?raw=true">
-2. No menu principal selecione uma opção
-  2.1. Clicar em "Criar a partida" iniciará um Host
-  2.2. Clicar em "Entrar na partida" iniciará um Client
+- 2. No menu principal selecione uma opção:
+  - 2.1. Clicar em "Criar a partida" iniciará um Host
+  - 2.2. Clicar em "Entrar na partida" iniciará um Client
   Atenção: Inicie 1 jogador primeiro como Host e logo após 1 como Client
 <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/2.png?raw=true">
-3. Informe um nome, que será usado para o ranqueamento global no BackEnd
+- 3. Informe um nome, que será usado para o ranqueamento global no BackEnd
 <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/3.png?raw=true">
-4. Para o Host o jogo irá esperar o outro jogador entrar
-5. Para o Client o jogo irá iniciar assim que entrar
+- 4. Para o Host o jogo irá esperar o outro jogador entrar
+- 5. Para o Client o jogo irá iniciar assim que entrar
 <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/4.png?raw=true">
-6. Caixas irão spawnar aleatoriamente pelo mapa sincronizadas
-  6.1. Colidir com uma caixa irá destruí-la e o jogador ganhará 100 pontos
+- 6. Caixas irão spawnar aleatoriamente pelo mapa sincronizadas
+  - 6.1. Colidir com uma caixa irá destruí-la e o jogador ganhará 100 pontos
  <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/5.png?raw=true">
-8. O jogo se encerrará ao decorrer de 5 minutos
-9. Será mostrado uma tela informando o vencedor, assim como o ranking global
+- 7. O jogo se encerrará ao decorrer de 5 minutos
+- 8. Será mostrado uma tela informando o vencedor, assim como o ranking global
 <img width = "100%" src="https://github.com/irahel/BugabooTest/blob/master/Capturas/6.png?raw=true">
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
