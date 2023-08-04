@@ -108,11 +108,11 @@ GET /ranking
 - O protocolo padrão é http.
 - O banco utilizado é uma simulação em memória em visão do tempo.
 - O Jest irá testar o seguinte:
-    √ Deve cadastrar um novo player com sucesso                                                       
-    √ Deve retornar um erro ao cadastrar player sem nome ou pontuação
-    √ Deve retornar o score de um player específico                                               
-    √ Deve retornar erro quando tentar obter score de player não encontrado                                
-    √ Deve retornar o ranking dos três melhores players
+    - √ Deve cadastrar um novo player com sucesso                                                       
+    - √ Deve retornar um erro ao cadastrar player sem nome ou pontuação
+    - √ Deve retornar o score de um player específico                                               
+    - √ Deve retornar erro quando tentar obter score de player não encontrado                                
+    - √ Deve retornar o ranking dos três melhores players
 
 ### Unity notation
 3. Abra o projeto via Unity Hub
