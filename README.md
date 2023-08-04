@@ -5,7 +5,7 @@ Esse projeto é um teste prático!
 ## Tecnologias Usadas
 [Unity](https://unity.com/pt) stack:
 - [Netcode for GameObjects](https://docs-multiplayer.unity3d.com/) usado para gerenciar o multiplayer.
-  [Multiplayer Samples Utilities](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop?path=/Packages/com.unity.multiplayer.samples.coop) usado para complementar o Netcode.
+- [Multiplayer Samples Utilities](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop?path=/Packages/com.unity.multiplayer.samples.coop) usado para complementar o Netcode.
 - [ParrelSync](https://github.com/VeriorPies/ParrelSync) usado para facilitar o teste local do multiplayer.
 - [2D Sprite](https://docs.unity3d.com/Manual/SpriteEditor.html) usado para criar HUD.
 
